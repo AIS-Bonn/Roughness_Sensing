@@ -1,15 +1,16 @@
 # Roughness_Sensing
-Audio-based Roughness Sensing and Tactile Feedback for Haptic Perception in Telepresence
+
+Supplementary material of **"Audio-based Roughness Sensing and Tactile Feedback for Haptic Perception in Telepresence"** by Pätzold et al. [[Paper]](https://arxiv.org/abs/2303.07186)
 
 ## Dataset and Models
 
-https://cloud.vi.cs.uni-bonn.de/index.php/s/KmKSncpDzQ7i3je
+https://cloud.vi.cs.uni-bonn.de/index.php/s/x3YwnAH846yjBgL
 
 ## Citation
 
 Bastian Pätzold, Andre Rochow, Michael Schreiber, Raphael Memmesheimer, Christian Lenz, Max Schwarz, and Sven Behnke:<br>
 *Audio-based Roughness Sensing and Tactile Feedback for Haptic Perception in Telepresence*.<br>
-Submitted to IEEE World Haptics Conference (WHC), 2023.
+Submitted to IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023.
 
 ## License
 
