@@ -10,7 +10,7 @@ https://cloud.vi.cs.uni-bonn.de/index.php/s/x3YwnAH846yjBgL
 
 Bastian Pätzold, Andre Rochow, Michael Schreiber, Raphael Memmesheimer, Christian Lenz, Max Schwarz, and Sven Behnke:<br>
 *Audio-based Roughness Sensing and Tactile Feedback for Haptic Perception in Telepresence*.<br>
-Submitted to IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023.
+In Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Hawaii, USA, October 2023.
 
 ## License
 
